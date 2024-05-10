@@ -1,3 +1,2 @@
 # ML-4360
-2024.4.7
-蒂宾根大学3D vision课程作业&amp;课件
+Assignments and courseware for the [3D Vision course](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) at the University of Tübingen
